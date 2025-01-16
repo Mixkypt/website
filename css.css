@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.info {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 350px;
+    padding-right: 350px;
+    text-align: center;
+    font-size: large;
+}
+
+.topic {
+    text-align: center;
+    font-size: 40px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tube {
+    float: right;
+    margin-top: 50px;
+    margin-right: 80px;
+}
+
+.how {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.be {
+    text-align: center;
+    font-size: 370%;
+    margin: 100px;
+}
+
+.box {
+    inline-size: 450px;
+    overflow-wrap: break-word;
+    float: right;
+    margin-right: 150px;
+}
+
+.box2 {
+    inline-size: 450px;
+    overflow-wrap: break-word;
+    float: left;
+    margin-left: 250px;
+}
+
+.h1 {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 48px;
+    text-align: center;
+    font-size: 500%;
+    margin: 0px;
+    background-image: url("./Picture/na2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 200px;
+}
+
+.leftpic {
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.rightpic {
+    float: right;
+    margin-right: 200px;
+    margin-bottom: 0px;
+}
+
+.ref {
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+.refinfo{
+    margin-left: 125px;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #9d8f75;
+    overflow: hidden;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.navbar a {
+    display: block;
+    padding: 14px 16px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-align: center;
+    float: right;
+}
